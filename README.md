@@ -1,0 +1,2 @@
+# assets
+Fosscord assets
